@@ -1,0 +1,7 @@
+[package]
+authors = ["Mathieu Poumeyrol <kali@zoy.org>"]
+name = "day09"
+version = "0.1.0"
+
+[dependencies]
+permutohedron="*"

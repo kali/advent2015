@@ -1,0 +1,8 @@
+[package]
+name = "day12"
+version = "0.1.0"
+authors = ["Mathieu Poumeyrol <kali@zoy.org>"]
+
+[dependencies]
+itertools = "*"
+serde_json = "*"
